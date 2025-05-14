@@ -1,0 +1,260 @@
+{
+"name":"Frame 322689",
+"type":"FRAME",
+"visible":true,
+"x":-30055,
+"y":-10929,
+"width":1000,
+"height":1000,
+"rotation":0,
+"opacity":1,
+"cornerRadius":0,
+"cornerSmoothing":0,
+"constraints":
+{
+	"horizontal": "MIN",
+	"vertical": "MIN"
+},
+"fills":
+[
+	{
+		"type": "SOLID",
+		"visible": true,
+		"opacity": 1,
+		"blendMode": "NORMAL",
+		"color": {
+			"r": 1,
+			"g": 1,
+			"b": 1
+		},
+		"boundVariables": {}
+	}
+],
+"strokeCap":"NONE",
+"strokeJoin":"MITER",
+"strokeMiterLimit":4,
+"strokeStyleId":"",
+"strokeWeight":1,
+"children":
+[
+	{
+		"name":"image 87",
+		"type":"RECTANGLE",
+		"visible":true,
+		"x":-2,
+		"y":-1,
+		"width":1006,
+		"height":1005,
+		"rotation":0,
+		"opacity":1,
+		"cornerRadius":0,
+		"cornerSmoothing":0,
+		"constraints":
+		{
+			"horizontal": "CENTER",
+			"vertical": "CENTER"
+		},
+		"fills":
+		[
+			{
+				"type": "IMAGE",
+				"src":"images/0e6196e23ded7879d8337c3321329776f048d1fe.png",
+				"visible": true,
+				"opacity": 1,
+				"blendMode": "NORMAL",
+				"scaleMode": "FILL",
+				"imageTransform": [
+					[
+						1,
+						0,
+						0
+					],
+					[
+						0,
+						1,
+						0
+					]
+				],
+				"scalingFactor": 0.5,
+				"rotation": 0,
+				"filters": {
+					"exposure": 0,
+					"contrast": 0,
+					"saturation": 0,
+					"temperature": 0,
+					"tint": 0,
+					"highlights": 0,
+					"shadows": 0
+				},
+				"imageHash": "0e6196e23ded7879d8337c3321329776f048d1fe"
+			}
+		],
+		"strokeCap":"NONE",
+		"strokeJoin":"MITER",
+		"strokeMiterLimit":4,
+		"strokeStyleId":"",
+		"strokeWeight":1
+	},
+	{
+		"name":"Nisar Ahmad",
+		"type":"TEXT",
+		"visible":true,
+		"x":258,
+		"y":520,
+		"width":484,
+		"height":97,
+		"rotation":0,
+		"opacity":1,
+		"constraints":
+		{
+			"horizontal": "MIN",
+			"vertical": "MIN"
+		},
+		"characters":"Nisar Ahmad",
+		"fontSize":80,
+		"textAlignHorizontal":"LEFT",
+		"textAlignVertical":"TOP",
+		"fontName":
+		{
+			"family": "Inter",
+			"style": "Regular"
+		},
+		"fills":
+		[
+			{
+				"type": "SOLID",
+				"visible": true,
+				"opacity": 1,
+				"blendMode": "NORMAL",
+				"color": {
+					"r": 0,
+					"g": 0,
+					"b": 0
+				},
+				"boundVariables": {}
+			}
+		],
+		"strokeCap":"NONE",
+		"strokeJoin":"MITER",
+		"strokeMiterLimit":4,
+		"strokeStyleId":"",
+		"strokeWeight":1
+	},
+	{
+		"name":"image 85",
+		"type":"RECTANGLE",
+		"visible":true,
+		"x":585,
+		"y":250,
+		"width":179,
+		"height":164,
+		"rotation":0,
+		"opacity":1,
+		"cornerRadius":0,
+		"cornerSmoothing":0,
+		"constraints":
+		{
+			"horizontal": "MIN",
+			"vertical": "MIN"
+		},
+		"fills":
+		[
+			{
+				"type": "IMAGE",
+				"src":"images/c1079643393bffb06f426f5e4c8b55bb3fd4aae9.png",
+				"visible": true,
+				"opacity": 1,
+				"blendMode": "NORMAL",
+				"scaleMode": "FILL",
+				"imageTransform": [
+					[
+						1,
+						0,
+						0
+					],
+					[
+						0,
+						1,
+						0
+					]
+				],
+				"scalingFactor": 0.5,
+				"rotation": 0,
+				"filters": {
+					"exposure": 0,
+					"contrast": 0,
+					"saturation": 0,
+					"temperature": 0,
+					"tint": 0,
+					"highlights": 0,
+					"shadows": 0
+				},
+				"imageHash": "c1079643393bffb06f426f5e4c8b55bb3fd4aae9"
+			}
+		],
+		"strokeCap":"NONE",
+		"strokeJoin":"MITER",
+		"strokeMiterLimit":4,
+		"strokeStyleId":"",
+		"strokeWeight":1
+	},
+	{
+		"name":"image 86",
+		"type":"RECTANGLE",
+		"visible":true,
+		"x":169,
+		"y":244,
+		"width":179,
+		"height":175.34693908691406,
+		"rotation":0,
+		"opacity":1,
+		"cornerRadius":0,
+		"cornerSmoothing":0,
+		"constraints":
+		{
+			"horizontal": "MIN",
+			"vertical": "MIN"
+		},
+		"fills":
+		[
+			{
+				"type": "IMAGE",
+				"src":"images/0244b8e0117aaee49ee1d858c5415d1582a9b05f.png",
+				"visible": true,
+				"opacity": 1,
+				"blendMode": "NORMAL",
+				"scaleMode": "FILL",
+				"imageTransform": [
+					[
+						1,
+						0,
+						0
+					],
+					[
+						0,
+						1,
+						0
+					]
+				],
+				"scalingFactor": 0.5,
+				"rotation": 0,
+				"filters": {
+					"exposure": 0,
+					"contrast": 0,
+					"saturation": 0,
+					"temperature": 0,
+					"tint": 0,
+					"highlights": 0,
+					"shadows": 0
+				},
+				"imageHash": "0244b8e0117aaee49ee1d858c5415d1582a9b05f"
+			}
+		],
+		"strokeCap":"NONE",
+		"strokeJoin":"MITER",
+		"strokeMiterLimit":4,
+		"strokeStyleId":"",
+		"strokeWeight":1
+	}
+]
+}
